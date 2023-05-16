@@ -1,6 +1,6 @@
 [
     {
-        "title": "Abstract Submission Accepted",
+        "title": "Abstract Submission Accepted!",
         "description": "My abstract submission on 'Compiler for data-oblivious programs' was accepted to TECHCON 2023. I will be giving a presentation on September 11, 2023",
         "url": "",
         "coverImage": "https://raw.githubusercontent.com/biniyam-mt/content/main/image/techcon.png"
@@ -10,24 +10,24 @@
         "url": "",
         "coverImage": "https://raw.githubusercontent.com/biniyam-mt/content/main/image/qr.png"
     },{
-        "title": "Poster Submission Accepted",
+        "title": "Poster Submission Accepted!",
         "description": "My poster,OCTAL: DSL for Data-Oblivious Programs, was accepted to the 44th IEEE Symposium on Security and Privacy (S&P), I will be presenting OCTAL during the poster session.",
         "url": "",
         "coverImage": "https://raw.githubusercontent.com/biniyam-mt/content/main/image/oakland.png"
     },
      {
-        "title": "I will be attending DAC 2023",
+        "title": "I will be attending DAC 2023.",
         "description": "My application to attend the 60th design automation conference was accepted, I will be presenting OCTAL during the poster session. ",
         "url": "",
         "coverImage": "https://raw.githubusercontent.com/biniyam-mt/content/main/image/dac.png"
     },{
-        "title": "ISPASS Submission Accepted!",
-        "description": "Our paper 'Exploring the Efficiency of Data-Oblivious Programs' was accepted to 2023 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)",
+        "title": "I attended ISPASS 2023 ",
+        "description": "I attended the 2023 IEEE International Symposium on Performance Analysis of Systems and Software at Raleigh, North Carolina. ",
         "url": "",
         "coverImage": "https://raw.githubusercontent.com/biniyam-mt/content/main/image/ispass.png"
     },{
-        "title": "I attended ISPASS 2023 ",
-        "description": "I attended the 2023 IEEE International Symposium on Performance Analysis of Systems and Software at Raleigh, North Carolina. ",
+        "title": "ISPASS Submission Accepted!",
+        "description": "Our paper 'Exploring the Efficiency of Data-Oblivious Programs' was accepted to 2023 IEEE International Symposium on Performance Analysis of Systems and Software (ISPASS)",
         "url": "",
         "coverImage": "https://raw.githubusercontent.com/biniyam-mt/content/main/image/ispass.png"
     }

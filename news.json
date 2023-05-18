@@ -1,5 +1,10 @@
 [
     {
+        "title": "I will be attending S&P 2023 (Oakland)",
+        "description": "My poster,OCTAL: DSL for Data-Oblivious Programs, was accepted to the 44th IEEE Symposium on Security and Privacy (S&P), I will be presenting it during the poster session.",
+        "url": "",
+        "coverImage": "https://raw.githubusercontent.com/biniyam-mt/content/main/image/oakland.png"
+    },{
         "title": "Abstract Submission Accepted!",
         "description": "My abstract submission on 'Compiler for data-oblivious programs' was accepted to TECHCON 2023. I will be giving a presentation on September 11, 2023",
         "url": "",
@@ -9,11 +14,6 @@
         "description": "Check out this companion web app I built for my OCTAL poster. The app lets you take my poster home and provide feedback.",
         "url": "",
         "coverImage": "https://raw.githubusercontent.com/biniyam-mt/content/main/image/qr.png"
-    },{
-        "title": "Poster Submission Accepted!",
-        "description": "My poster,OCTAL: DSL for Data-Oblivious Programs, was accepted to the 44th IEEE Symposium on Security and Privacy (S&P), I will be presenting OCTAL during the poster session.",
-        "url": "",
-        "coverImage": "https://raw.githubusercontent.com/biniyam-mt/content/main/image/oakland.png"
     },
      {
         "title": "I will be attending DAC 2023.",
